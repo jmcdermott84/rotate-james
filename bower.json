@@ -1,0 +1,21 @@
+{
+  "name": "roatate-james",
+  "version": "0.0.1",
+  "authors": [
+    "jmcdermott"
+  ],
+  "description": "A simple element rotate library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "www.jaymcd.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
